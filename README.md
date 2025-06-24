@@ -28,6 +28,8 @@
 
 ##### [DoIt](https://syed-shahbaz.github.io/ToDo-List---React/) - Advance ToDo Application --  ReactJS, MongoDB, ExpressJS, NodeJS
 
+##### [ConnectChat](https://connect-chat-51fk.onrender.com) - Advance Chat Application --  JavaScript, ReactJS, MongoDB, ExpressJS, NodeJS
+
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/handshake_1f91d.png" alt="🤝" width="25" height="25"> **Let's Connect**
 
 [![Gmail](https://img.shields.io/badge/-Gmail-000?&style=for-the-badge&logo=gmail&logoColor=EB1928)](mailto:syedshahbaz6661@gmail.com) [![Instagram](https://img.shields.io/badge/-instagram-000?&style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/syed._shazz._?igsh=MTd0N3IxYTltN2djeQ==) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/syed-shahbaz-576a54310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Twitter](https://img.shields.io/badge/-Twitter-000?&style=for-the-badge&logo=x&logoColor=F9423A)](https://x.com/SyedShahbaz0055?t=qhn9Rh24BCkzqG3R0V9uvA&s=09) [![Bento](https://img.shields.io/badge/-Portfolio-000?&style=for-the-badge&logo=kofi&logoColor=F9423A)](file:///C:/Users/syeds/Portfolio%20websitesz/Portfolio%20websitesz)
